@@ -11,6 +11,7 @@
 		EF1B6AE92BBB92C0006E56C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1B6AE82BBB92C0006E56C3 /* ContentView.swift */; };
 		EF1B6AEB2BBB92C2006E56C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF1B6AEA2BBB92C2006E56C3 /* Assets.xcassets */; };
 		EF1B6AEE2BBB92C2006E56C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF1B6AED2BBB92C2006E56C3 /* Preview Assets.xcassets */; };
+		EF851EF72BC97D180078DC77 /* LocationManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF851EF62BC97D180078DC77 /* LocationManger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EF1B6AE82BBB92C0006E56C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EF1B6AEA2BBB92C2006E56C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF1B6AED2BBB92C2006E56C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EF851EF62BC97D180078DC77 /* LocationManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EF1B6AE62BBB92C0006E56C3 /* ZAHUNTERApp.swift */,
 				EF1B6AE82BBB92C0006E56C3 /* ContentView.swift */,
+				EF851EF62BC97D180078DC77 /* LocationManger.swift */,
 				EF1B6AEA2BBB92C2006E56C3 /* Assets.xcassets */,
 				EF1B6AEC2BBB92C2006E56C3 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF1B6AE92BBB92C0006E56C3 /* ContentView.swift in Sources */,
+				EF851EF72BC97D180078DC77 /* LocationManger.swift in Sources */,
 				EF1B6AE72BBB92C0006E56C3 /* ZAHUNTERApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
